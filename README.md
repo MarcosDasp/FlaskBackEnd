@@ -83,7 +83,7 @@ Após baixar o arquivo, garanta que ele esteja na pasta `data`.
 data/basecompleta2025-12.csv
 ```
 
-E caso o nome seja diferente atualizar a variavél `CSV_PATH` no arquivo `app.py`.
+Caso o nome seja diferente, atualizar a variavél `CSV_PATH` no arquivo `app.py`.
 
 Também é importante garantir que ele possui, no mínimo, as colunas:
 
