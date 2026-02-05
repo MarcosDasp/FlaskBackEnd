@@ -45,8 +45,8 @@ BACK-END/
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd BACK-END
+git clone https://github.com/MarcosDasp/FlaskBackEnd
+cd FlaskBackEnd
 ```
 
 ### 2️⃣ Criar e ativar o ambiente virtual
